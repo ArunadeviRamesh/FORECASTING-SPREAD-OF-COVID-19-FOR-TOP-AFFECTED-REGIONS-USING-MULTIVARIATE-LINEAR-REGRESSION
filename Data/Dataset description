@@ -1,0 +1,9 @@
+Parameters	                - Description of the parameters
+Region	                        - Name of the region (top affected regions across the world)
+Date	                        - Date
+Confirmed cases	                - Cumulative Number of confirmed cases
+Death	                        - Cumulative Number of Death
+After one week confirmed cases	- After one week Cumulative Number of confirmed cases
+After one week death	        - After one week Cumulative Number of Death
+After two week confirmed cases	- After two week Cumulative Number of confirmed cases
+After two week death  	        - After two week Cumulative Number of Death
